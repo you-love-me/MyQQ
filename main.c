@@ -7,7 +7,8 @@
 #include <stdio.h>
 
 int main(int argc, char *argv[])
-{ 
+{
+    printf("he;lo\n");
 
     return 0;
 } 
